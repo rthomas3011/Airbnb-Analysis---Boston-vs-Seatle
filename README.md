@@ -21,5 +21,8 @@ Results
 The details for the results can be shown on this post: https://medium.com/@rijuthomas011/i-love-to-travel-so-i-thought-why-not-use-data-to-help-pick-our-next-travel-destination-d6ebcb491ba
 
 
+Acknowledgements
+
+The credit for this data goes to Inside Airbnb. The licensing for this data can be found here: http://insideairbnb.com/get-the-data/
 
 
